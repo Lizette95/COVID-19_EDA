@@ -22,8 +22,8 @@ We are looking for valuable insights into the data and impactful visuals.
 3. Students then decide the winners by voting for their favourite notebook
 
 ### Regulations:
-All data has to be referenced (even from the database)
-You may work in teams or individually but only one notebook may be submitted per team/individual
-You may not alter or delete notebooks not owned by you
+All data has to be referenced (even from the database)  
+You may work in teams or individually but only one notebook may be submitted per team/individual  
+You may not alter or delete notebooks not owned by you  
 All code must be your own and the best notebooks will be checked for plagiarism and against other submissions 
 

@@ -1,4 +1,4 @@
-# EDSA COVID-19 Challenge: Exploratory Data Analysis (2nd place)
+# EDSA COVID-19 Challenge (2nd place)
 
 ## EXPLORE Data Science Academy competition overview:
 
